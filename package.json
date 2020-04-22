@@ -1,5 +1,5 @@
 {
-  "name": "vc-revocation-list-2020-context",
+  "name": "vc-revocation-list-context",
   "version": "0.0.1-0",
   "description": "Verifiable Credential Revocation List 2020 Context",
   "main": "js",
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalbazaar/vc-revocation-list-2020-context"
+    "url": "https://github.com/digitalbazaar/vc-revocation-list-context"
   },
   "bugs": {
-    "url": "https://github.com/digitalbazaar/vc-revocation-list-2020-context/issues"
+    "url": "https://github.com/digitalbazaar/vc-revocation-list-context/issues"
   },
-  "homepage": "https://github.com/digitalbazaar/vc-revocation-list-2020-context#readme",
+  "homepage": "https://github.com/digitalbazaar/vc-revocation-list-context#readme",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "eslint": "^6.8.0",
