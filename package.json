@@ -1,6 +1,6 @@
 {
   "name": "vc-revocation-list-context",
-  "version": "0.0.1-0",
+  "version": "1.0.0",
   "description": "Verifiable Credential Revocation List 2020 Context",
   "main": "js",
   "module": "./dist/module.js",
